@@ -1,0 +1,1 @@
+This project focuses on analyzing the churn rate in the telecom industry using a comprehensive dataset. The analysis is performed using Tableau to uncover insights and visualize key trends and patterns that influence customer churn.
